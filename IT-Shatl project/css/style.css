@@ -1,0 +1,366 @@
+
+.first-element{
+    width: 1100px;
+    background-color: #EEEFF1;
+    height: 50px;
+    margin: 0 auto;
+    text-align: center;
+}
+.second-element{
+    width: 1100px;
+    background-color: #EEEFF1;
+    height: 350px;
+    margin: 0 auto;
+    padding-top: 100px;
+    text-align: center;
+}
+.third-element{
+    background-color:white;
+    width: 1100px;
+    height: 300px;
+    margin: 0 auto;
+}
+.fourth-element{
+    width: 1100px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: #34547A;
+}
+.fifth-element{
+    width: 1100px;
+    
+    height: 500px;
+    margin: 0 auto;
+    background-color:lightgray;
+}
+.sixth-element{
+    background-color: #EEEFF1;
+    width: 1100px;
+    height: 700px;
+    margin: 0 auto;
+}
+.seven-element{
+    background-color:white;
+    width: 1100px;
+    height: 500px;
+    margin: 0 auto;
+}
+.eight-element{
+    background-color:white;
+    width: 1100px;
+    height: 300px;
+    margin: 0 auto;
+}
+.nine-element{
+    background-color:gray;
+    width: 1100px;
+    height: 200px;
+    margin: 0 auto;
+}
+.ten-element{
+    background-color:gray;
+    width: 1100px;
+    height: 300px;
+    margin: 0 auto;
+}
+.eleven-element{
+    background-color:gray;
+    width: 1100px;
+    height: 300px;
+    margin: 0 auto;
+}
+.last-element{
+    background-color:rgb(115, 149, 245);
+    width: 1100px;
+    height: 100px;
+    margin: 0 auto;
+}
+.fe-first,.fe-second{
+    margin: 0 auto;
+    display: inline-block;
+    margin-top: 12px;
+    
+}
+.fe-first{
+    font-family:Revalia;
+    width: 50px;
+    font-size: 30px;
+    color: #34547A;
+   padding-top:5px;
+   padding-right: 200px;
+}
+.fe-second{
+    width: 600px;
+  text-align:center;
+  padding-right: 10px;
+  font-size: 10px;
+
+}
+.ssilka{ font-family: Roboto;;
+    padding: 0 30px 0 0;
+}
+.fe-second>a:link{
+    color: black;
+    text-decoration: none;
+}
+.fe-second>a:visited{
+    color: black;
+    text-decoration: none;
+}
+.fe-second>a:active{
+    color: black;
+    text-decoration: none;
+}
+.fe-second>a:hover{
+    color: burlywood;
+    text-decoration: none;
+}
+.pc-img{
+   
+    width:400px;
+}
+.pc-img,.about-me{
+    margin: 0 auto;
+    display: inline-block;
+}
+.about-me{
+    font-family:Roboto;
+text-align: left;
+padding:0 180px 0 0;
+    width: 380px;
+    
+   
+    float: right;
+}
+.me-second{
+    font-family: Roboto;
+    color:#727272;
+}
+.me-third{
+    width: 200px;
+    height:30px;
+    background-color: #34547A;
+    text-align:center;
+    padding: 15px 0 0 0;
+    border-radius: 12px;
+}
+.ssilka-me{
+   font-family: Roboto;
+    color: white;
+}
+.me-third>a{
+    color:white;
+}
+.me-third>a:link{
+    color:white;
+    text-decoration: none;
+}
+.me-third>a:visited{
+    color:white;
+    text-decoration: none;
+}
+.me-third>a:active{
+    color:white;
+    text-decoration: none;
+}
+.me-third>a:hover{
+    color: burlywood;
+    text-decoration: none;
+}
+.info_1{
+    text-align: center;
+    padding-top:40px ;
+    font-family: Roboto;
+}
+.info_2{
+    text-align: center;
+    padding: 40px 180px 0 180px;
+    font-family: Roboto;
+}
+.info_3{
+    margin: 0 auto;
+    padding: 20px 300px;
+    text-align:center;
+    font-family: Roboto;
+    font-size: 15px;
+}
+.info_4{
+    font-family: Roboto;
+    font-size: normal;
+    padding-top: 30px;
+    padding-left: 100px;
+}
+.info_5{
+    font-family: Roboto;
+    font-size: small;
+    padding-top: 10px;
+    padding-left: 100px;
+}
+.pr-img{
+    padding-top:75px ;
+    padding-left: 30px;
+    padding-bottom:75px ;
+    width: 140px;
+    height: 50px;
+}
+.fourth-text{
+    font-family: Roboto;
+    color: white;
+    display: block;
+}
+.linii{
+    display:inline-block;
+    width: 320px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.line-1{
+    float: left;
+    width: 200px;
+    border:#34547A 2px solid;
+    background-color:#34547A;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+.line-2{
+    text-align: left;
+    width: 300px;
+    border: gray 2px solid;
+    background-color: gray;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px; 
+}
+.skill{
+    padding-left: 140px;
+    padding-top:70px ;
+}
+.my-photo{
+    padding: 90px 0 0 120px;
+    width: 400px;
+    
+    
+}
+.skill,.my-photos{
+    display: inline-block;
+   
+}
+.text_5{
+    font-family: Roboto;
+}
+.video{
+    padding: 20px 100px 0 100px;
+    height: 450px;
+    width: 900px;
+}
+.pause{
+    z-index: 5;
+    position: relative;
+    top:-270px;
+    width: 100px;
+    left:500px;
+    transition: 2s;
+    
+}
+.pause:hover{
+    transform: scale(1.5);
+}
+.photo-8{
+    float: left;
+    width: 275px;
+    padding: 0;
+}
+.photo-8:hover{
+    transition: 0.5s;
+    
+    opacity: 0.3;
+}
+.microsoft{
+    padding-top: 20px;
+    padding-left:40px;
+    width:225px;
+}
+.name{
+    background-color:white;
+    text-align: center;
+    border-radius: 20px;
+    position: relative;
+    top:40px;
+    font-family: Roboto;
+    color: lightslategrey;
+    left:300px;
+    padding: 10px 0 0 0;
+    width:200px;
+    height: 30px;
+}
+.email{
+    background-color:white;
+    text-align: center;
+    border-radius: 20px;
+    position: relative;
+    top:0px;
+    font-family: Roboto;
+    color: lightslategrey;
+    left:600px;
+    padding: 10px 0 0 0;
+    width:200px;
+    height: 30px;
+}   
+.message{
+    background-color:white;
+    text-align: center;
+    border-radius: 20px;
+    position: relative;
+    top:-150px;
+    font-family: Roboto;
+    color: lightslategrey;
+    left:300px;
+    padding: 10px 0 0 0;
+    width:500px;
+    height: 200px;
+}
+.send{
+    background-color: royalblue;
+    width: 160px;
+    height: 40px;
+    padding-top: 14px;
+    border-radius: 12px;
+    font-family: Roboto;
+    font-size: 16px;
+    text-align: center;
+    position: relative;
+    left: 470px;
+   bottom: 80px;
+}
+
+.send-msg{
+    color:navajowhite
+}
+.send>a:link{
+    color: white;
+    text-decoration: none;
+}
+.send>a:visited{
+    color: white;
+    text-decoration: none;
+}
+.send>a:active{
+    color: white;
+    text-decoration: none;
+}
+.send>a:hover{
+    color: rgb(221, 197, 57);
+    transition: 1s;
+    text-decoration: none;
+}
+.vk{
+    position: relative;
+    padding: 10px;
+    left: 700px;
+    bottom: 40px;
+    
+}
+.logo{
+    padding:  0 20px;
+}
